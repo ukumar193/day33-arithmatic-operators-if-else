@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+form{
+  width: 45%;
+  display: inline-block;
+  background:linear-gradient(180deg, #256da2,#faf3fa);
+  font-size: 1.5rem;
+  padding: auto;
+
+}
+form label{
+  display: inline-block;
+width: 150px;
+}
+
